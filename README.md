@@ -1,0 +1,2 @@
+# Recovery-of-gold-from-ore
+Prepare a prototype machine learning model for Zifra. The company develops solutions for the efficient operation of industrial enterprises. The model should predict the recovery rate of gold from gold ore. You have data with extraction and cleaning parameters at your disposal. The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
